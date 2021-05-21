@@ -1,0 +1,1 @@
+# logInScreen-basic This is a basic log in login style screen. This project was written mainly in JavaScript with very little HTML. This is showing the the ability to write a landing page through Javascript through DOM manipulation as well as writting the projext dynamically.
